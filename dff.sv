@@ -9,7 +9,7 @@ data   , // Data Input
 clk    , // Clock Input
  reset  , // Reset input
  q        // Q output
- );
+ )
  //-----------Input Ports---------------
  input data, clk, reset ; 
  
